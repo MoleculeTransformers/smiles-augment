@@ -1,6 +1,6 @@
 # SMILES Augment
 
-Augment molecular SMILES with methods including enumeration, and mixup, for low-data regime settings for downstream supervised drug discovery tasks. For featurizers please lookup (smiles-featurizers)[https://github.com/MoleculeTransformers/smiles-featurizers].
+Augment molecular SMILES with methods including enumeration, and mixup, for low-data regime settings for downstream supervised drug discovery tasks. For featurizers please lookup `[smiles-featurizers](https://github.com/MoleculeTransformers/smiles-featurizers)`.
 
 ## Getting Started
 
