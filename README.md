@@ -4,8 +4,6 @@ Augment molecular SMILES with methods including enumeration, and mixup, for low-
 
 ## Getting Started
 
-## Use SMILES Augment
-
 ### Enumeration Augmenter
 
 ```python
